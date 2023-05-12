@@ -1,7 +1,3 @@
 <template>
-  <AboutView />
+  <h1>Home</h1>
 </template>
-
-<script lang="ts" setup>
-import AboutView from '@/components/AboutView.vue'
-</script>
